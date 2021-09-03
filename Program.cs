@@ -6,7 +6,7 @@ namespace MIS_221
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Im changing things just for fun.");
+            Console.WriteLine("this is fun");
         }
     }
 }
